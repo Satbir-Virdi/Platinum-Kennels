@@ -29,10 +29,10 @@ const InfoSection = ({id, topLine,description}) => {
             {/* <StormiVideo muted src={SVideo} type='video/mp4'/> */}
             <SireImg>
               <img id="dog" src={sire} style={{
-                height: '100%', width: '100%',
+                height: '90%', width: '100%',
                       opacity:'0.90',
                       objectFit: 'cover',
-                       zIndex:'1', filter: 'brightness(130%)', border:'2px solid white', borderRadius:'20px'
+                  zIndex: '1', filter: 'brightness(130%)', border: '2px solid white', borderRadius: '20px'
                   }} />
             </SireImg>
             <StormiInfo>
