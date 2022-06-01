@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Platinum-Kennels/static/css/main.63d527f9.css",
+    "main.js": "/Platinum-Kennels/static/js/main.d227f268.js",
+    "static/media/sire.jpg": "/Platinum-Kennels/static/media/sire.1534f8f3d22a3277c961.jpg",
+    "static/media/CaneCorsoMain.jpg": "/Platinum-Kennels/static/media/CaneCorsoMain.4b6cf4c5fbaf2c1bef45.jpg",
+    "static/media/sire2.jpg": "/Platinum-Kennels/static/media/sire2.5c3488c08a0b36be6adc.jpg",
+    "static/media/amiri-latin-400italic.woff": "/Platinum-Kennels/static/media/amiri-latin-400italic.d15abc6e2223fc37eda1.woff",
+    "static/media/amiri-latin-700italic.woff": "/Platinum-Kennels/static/media/amiri-latin-700italic.e1e793181c06307f2e5f.woff",
+    "static/media/amiri-latin-400.woff": "/Platinum-Kennels/static/media/amiri-latin-400.9e66d3652b75ff76a7f7.woff",
+    "static/media/amiri-latin-700.woff": "/Platinum-Kennels/static/media/amiri-latin-700.914b94432c2f1d7310c4.woff",
+    "static/media/amiri-latin-400italic.woff2": "/Platinum-Kennels/static/media/amiri-latin-400italic.3cf96aad4b8954381470.woff2",
+    "static/media/amiri-latin-700italic.woff2": "/Platinum-Kennels/static/media/amiri-latin-700italic.6e410a86dd8790ad8c2c.woff2",
+    "static/media/amiri-latin-400.woff2": "/Platinum-Kennels/static/media/amiri-latin-400.fd7f183fdbcb39db4717.woff2",
+    "static/media/amiri-latin-700.woff2": "/Platinum-Kennels/static/media/amiri-latin-700.5b36433de869ffdadc39.woff2",
+    "static/media/PlatinumKennelsLogo.jpeg": "/Platinum-Kennels/static/media/PlatinumKennelsLogo.5e9336e94a901eec7454.jpeg",
+    "index.html": "/Platinum-Kennels/index.html",
+    "main.63d527f9.css.map": "/Platinum-Kennels/static/css/main.63d527f9.css.map",
+    "main.d227f268.js.map": "/Platinum-Kennels/static/js/main.d227f268.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d527f9.css",
+    "static/js/main.d227f268.js"
+  ]
+}
