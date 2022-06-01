@@ -91,7 +91,7 @@ const PopupForm = ({ isFormOpen, toggleForm, selectedDog }) => {
             </Icon>
             
             <FormBody>
-                Adopt Dog:
+               
                 <FormMain onSubmit={handleSubmit}>
                     {/* the default value is the start value */}
                     {/*the onChange function sets the user details but updates the relvant key with the target.value ie the input*/}
