@@ -44,7 +44,8 @@ export const Column1 = styled.div`
     margin-bottom:15px;
     grid-area: col1;
     @media screen and (max-width:660px){
-        margin-bottom:17.6vmax;
+        margin-bottom:20.6vmax;
+
     }
 `
 

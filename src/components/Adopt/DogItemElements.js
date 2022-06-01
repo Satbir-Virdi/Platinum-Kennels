@@ -6,9 +6,9 @@ export const DogItemWrapper = styled.div`
     padding: 10px 20px;
     border:solid;
     border-color:white;
-    width:auto;
+    width:100%;
     height:auto;
-    margin-bottom:5%;
+    margin-bottom:7%;
     border-radius:10px;
 
 
@@ -26,9 +26,11 @@ export const TextWrapper = styled.div`
 export const Description = styled.div`
     height:45%;
     overflow:auto;
+    margin-bottom:20px;
 
     @media screen and (max-width:768px){
         font-size:14px;
+        margin-bottom:20px;
     }
   
 `
@@ -36,8 +38,10 @@ export const Description = styled.div`
 export const Img = styled.img`
     max-width: 400px;
     max-height:400px;
+    min-width:120px;
+    min-height:120px;
     height:90%;
-    width:100%;
+    width:90%;
 
     grid-area:image;
     object-fit:cover;
@@ -53,6 +57,8 @@ export const Name = styled.div`
 
 export const ImgWrapper = styled.div`
     object-fit:contain;
+    resize-mode:contain;
+    width:50%;
 
 `
 
@@ -69,8 +75,8 @@ export const AdoptButton = styled.div`
     text-align:center;
     margin-top:5%;
     position:absolute;
-    left:5%;
-    bottom:-13%;
+    // left:5%;
+    bottom:-10%;
     width:50%;
    
     
