@@ -30,7 +30,7 @@ export const Description = styled.div`
 
     @media screen and (max-width:768px){
         font-size:14px;
-        margin-bottom:20px;
+        margin-bottom:30px;
     }
   
 `
