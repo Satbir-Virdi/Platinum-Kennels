@@ -18,7 +18,7 @@ const SectionOne = () => {
           </SectionOneBG>
           <SectionOneText> {/* make own h1 tags and all dat */}
               <SectionOneH1 id="h1">
-                    <Smart> Siuuu. </Smart> <Staunch>Staunch.</Staunch> <Strong>Strong.</Strong>
+                    <Smart> Smart. </Smart> <Staunch>Staunch.</Staunch> <Strong>Strong.</Strong>
               </SectionOneH1>
               <SectionOneP>
                   
