@@ -110,9 +110,7 @@ export const SireImg = styled.div`
     
     top:0;
     position:relative;
-    margin-bottom:-60px;
-
-    
+    margin-bottom:-65px;
 
     justify-content:right;
     text-align:center;
